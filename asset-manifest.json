@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LiveAadi/static/css/main.a6f3553e.css",
+    "main.js": "/LiveAadi/static/js/main.52dbebc2.js",
+    "static/js/453.c38f7cb4.chunk.js": "/LiveAadi/static/js/453.c38f7cb4.chunk.js",
+    "static/media/AboutTran.png": "/LiveAadi/static/media/AboutTran.9cd4c0cb2e4acc2147bb.png",
+    "static/media/bannerbg.png": "/LiveAadi/static/media/bannerbg.33e4f5cea7f914c443d5.png",
+    "static/media/bgcoloro.png": "/LiveAadi/static/media/bgcoloro.2b1f7917766124ba6316.png",
+    "static/media/Athletics ExtraBold.otf": "/LiveAadi/static/media/Athletics ExtraBold.549938ff416be7c95924.otf",
+    "static/media/Athletics-Medium.otf": "/LiveAadi/static/media/Athletics-Medium.b3bb44a2b7e573ba89cc.otf",
+    "static/media/aadi.svg": "/LiveAadi/static/media/aadi.75f374c9a6f5788304b5c2df79ed760a.svg",
+    "index.html": "/LiveAadi/index.html",
+    "main.a6f3553e.css.map": "/LiveAadi/static/css/main.a6f3553e.css.map",
+    "main.52dbebc2.js.map": "/LiveAadi/static/js/main.52dbebc2.js.map",
+    "453.c38f7cb4.chunk.js.map": "/LiveAadi/static/js/453.c38f7cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f3553e.css",
+    "static/js/main.52dbebc2.js"
+  ]
+}
