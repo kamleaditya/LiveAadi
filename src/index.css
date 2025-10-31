@@ -308,3 +308,7 @@ p.contactEmail {
     font-style: italic;
     font-weight: 600;
 }
+.footerNav.mt-5 a
+ {
+    line-height: 35px;
+}

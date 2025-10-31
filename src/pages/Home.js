@@ -12,7 +12,7 @@ const Home = () => {
         <section className="pb-8"><Services/></section>
         <section className='mt-28'><Mission title='About Us'/></section>
         <section> <ClientTestimonials/></section>
-        <section className='Contact_section mt-5 mb-28'><Contact/></section>
+        <section className='Contact_section mt-5 mb-14'><Contact/></section>
       </>
 
     )

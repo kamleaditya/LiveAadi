@@ -1,20 +1,25 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Services from "./pages/Services";
+import Contact from "./pages/Contact";
 import Navigation from "./Header/Navigation";
+import Footer from "./Footer/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
-      {/* Navigation always visible */}
-      <Navigation />
-
-      {/* Routes section */}
-      <Routes>
+    <>
+    <Navigation/>
+    <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
+        <Route path="/Services" element={<Services />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
-    </BrowserRouter>
+      
+      {/* ✅ Footer placed outside Routes so it shows on all pages */}
+      <Footer />
+    </>
   );
 }
 
